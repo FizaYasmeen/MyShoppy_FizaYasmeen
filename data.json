@@ -1,0 +1,575 @@
+{
+  "categories": [{
+    "id": "fashion",
+    "title": "Fashion",
+    "image": "fashion.jpg"
+  },
+  {
+    "id": "electronics",
+    "title": "Electronics",
+    "image": "electronics.png"
+  },
+  {
+    "id": "beauty",
+    "title": "Beauty",
+    "image": "Beauty.jpeg"
+    
+  },
+  {
+    "id": "grocery",
+    "title": "Grocery",
+    "image": "grocery.jpg"
+   
+  },
+  {
+    "id": "homeDecor",
+    "title": "Home Decor",
+    "image": "HomeDecor.jpg"
+  },
+  {
+    "id": "kitchen",
+    "title": "Kitchen",
+    "image": "kitchen.jpg"
+  },
+   {
+    "id":"footwear",
+    "title":"Footwear",
+    "image":"footwear.jpg"
+  },
+   {
+    "id": "sports",
+    "title": "Sports",
+    "image": "sports.jpg"
+  },
+   {
+    "id": "stationery",
+    "title": "Stationery",
+    "image": "stationary.png"
+  },
+   {
+    "id": "toys",
+    "title": "Toys",
+    "image": "toys.png"
+  }],
+
+  "products": [{
+    "id": "B1",
+    "categoryId": "beauty",
+    "name": "Nail Polish",
+    "image": "B1.jpg",
+    "price": 39.99,
+    "rating": 4.8,
+    "description": "Red Nail Polish with glossy texture.",
+    "availability": "In Stock"
+},
+{
+    "id": "B2",
+    "categoryId": "beauty",
+    "name": "Compact Powder",
+    "image": "B2.jpg",
+    "price": 79.99,
+    "rating": 4.5,
+    "description":"Lightweight Compact Powder for daily use.",
+    "availability": "In Stock"
+},
+{
+    "id": "B3",
+    "categoryId": "beauty",
+    "name": "Lipstick",
+    "image": "B3.jpg",
+    "price": 59.99,
+    "rating": 4.3,
+    "description":"Blush Pink Matte Lipstick.",
+    "availability": "In Stock"
+},
+{
+    "id": "B4",
+    "categoryId": "beauty",
+    "name": "Eye Shadow",
+    "image": "B4.jpg",
+    "price": 129.99,
+    "rating": 4.5,
+    "description":"Eye shadow kit with multiple shades.",
+    "availability": "In Stock"
+},
+{
+    "id": "B5",
+    "categoryId": "beauty",
+    "name": "Mascara",
+    "image": "B5.jpg",
+    "price": 59.99,
+    "rating": 3.9,
+    "description":"Waterproof Mascara.",
+    "availability": "In Stock"
+},
+{
+    "id": "B6",
+    "categoryId": "beauty",
+    "name": "Perfume",
+    "image": "B6.jpg",
+    "price": 100,
+    "rating": 4.5,
+    "description":"Fragrant Flower Perfume.",
+    "availability": "In Stock"
+},
+{
+    "id": "e1",
+    "categoryId": "electronics",
+    "name": "Headphones",
+    "image": "E1.jpg",
+    "price": 129.99,
+    "rating": 4.8,
+    "description": "High volume classic black Headphones.",
+    "availability": "In Stock"
+},
+{
+    "id": "e2",
+    "categoryId": "electronics",
+    "name": "Headphones",
+    "image": "E2.jpg",
+    "price": 139.99,
+    "rating": 4.5,
+    "description":"Noise Cancellation Headphones. Color - RoseGold.",
+    "availability": "In Stock"
+},
+{
+    "id": "e3",
+    "categoryId": "electronics",
+    "name": "Ear-Pods",
+    "image": "E3.jpg",
+    "price": 89.99,
+    "rating": 4.3,
+    "description":"Noise Cancellation Ear-Pods.",
+    "availability": "In Stock"
+},
+{
+    "id": "e4",
+    "categoryId": "electronics",
+    "name": "Tablet",
+    "image": "E4.png",
+    "price": 299.99,
+    "rating": 4.5,
+    "description":"Smart Tablet with Octa-Core Processor and 5G internet Speed.",
+    "availability": "In Stock"
+},
+{
+    "id": "e5",
+    "categoryId": "electronics",
+    "name": "Speaker",
+    "image": "E5.jpg",
+    "price": 109.99,
+    "rating": 3.9,
+    "description":"High Volume Bass Speaker.",
+    "availability": "In Stock"
+},
+{
+    "id": "e6",
+    "categoryId": "electronics",
+    "name": "Smartphone",
+    "image": "E6.jpg",
+    "price": 399.99,
+    "rating": 4.0,
+    "description":"Samsung Galaxy Smartphone 5G.",
+    "availability": "In Stock"
+},
+{
+    "id": "f1",
+    "categoryId": "fashion",
+    "name": "Denim Jacket",
+    "image": "f1.png",
+    "price": 129.99,
+    "rating": 4.8,
+    "description": "Classic blue denim jacket for casual wear.",
+    "availability": "In Stock"
+},
+{
+    "id": "f2",
+    "categoryId": "fashion",
+    "name": "Peach Sweatshirt",
+    "image": "f2.jpg",
+    "price": 79.99,
+    "rating": 4.5,
+    "description":"Classic peach comfy sweatshirt.",
+    "availability": "In Stock"
+},
+{
+    "id": "f3",
+    "categoryId": "fashion",
+    "name": "Formal Jacket",
+    "image": "f3.jpg",
+    "price": 299.99,
+    "rating": 4.5,
+    "description":"Formal Officewear Black Blazer.",
+    "availability": "In Stock"
+},
+{
+    "id": "f4",
+    "categoryId": "fashion",
+    "name": "Blue Dress",
+    "image": "f4.jpg",
+    "price": 189.99,
+    "rating": 4.5,
+    "description":"Stylish Blue A-line dress.",
+    "availability": "In Stock"
+},
+{
+    "id": "f5",
+    "categoryId": "fashion",
+    "name": "Flare Skirt",
+    "image": "f5.png",
+    "price": 109.99,
+    "rating": 4.5,
+    "description":"Pleated flare skirt for casual wear.",
+    "availability": "In Stock"
+},
+{
+    "id": "f6",
+    "categoryId": "fashion",
+    "name": "Polo Shirt",
+    "image": "f6.jpg",
+    "price": 150,
+    "rating": 4.2,
+    "description":"Blue Polo Shirt.",
+    "availability": "In Stock"
+},
+{
+    "id": "FT1",
+    "categoryId": "footwear",
+    "name": "Everyday Shoes",
+    "image": "FT1.jpg",
+    "price": 39.99,
+    "rating": 4.8,
+    "description": "Everyday casual wear Shoes.",
+    "availability": "In Stock"
+},
+{
+    "id": "FT2",
+    "categoryId": "footwear",
+    "name": "Heels",
+    "image": "FT2.jpg",
+    "price": 39.99,
+    "rating": 3.8,
+    "description": "Stylish white pencil Heels.",
+    "availability": "In Stock"
+},
+{
+    "id": "FT3",
+    "categoryId": "footwear",
+    "name": "Boots",
+    "image": "FT3.jpg",
+    "price": 299.99,
+    "rating": 4.8,
+    "description": "Classic Brown Boots.",
+    "availability": "In Stock"
+},
+{
+    "id": "FT4",
+    "categoryId": "footwear",
+    "name": "Sandals",
+    "image": "FT4.jpg",
+    "price": 109.99,
+    "rating": 4.1,
+    "description": "Comfortable Sandals for outing.",
+    "availability": "In Stock"
+},
+{
+    "id": "G1",
+    "categoryId": "grocery",
+    "name": "Butter",
+    "image": "G1.jpg",
+    "price": 59.99,
+    "rating": 4.5,
+    "description": "Classic salted Butter.",
+    "availability": "In Stock"
+},
+{
+    "id": "G2",
+    "categoryId": "grocery",
+    "name": "Ketchup",
+    "image": "G2.jpg",
+    "price": 39.99,
+    "rating": 4.1,
+    "description": "Heinz Tomato Ketchup made with fresh tomatoes.",
+    "availability": "In Stock"
+},
+{
+    "id": "G3",
+    "categoryId": "grocery",
+    "name": "Cup Noodles",
+    "image": "G3.jpg",
+    "price": 49.99,
+    "rating": 4.5,
+    "description": "Instant Cup Noodles - ready in 5 mins.",
+    "availability": "In Stock"
+},
+{
+    "id": "G4",
+    "categoryId": "grocery",
+    "name": "Cornflour",
+    "image": "G4.jpg",
+    "price": 39.99,
+    "rating": 4.7,
+    "description": "All purpose Corn Flour.",
+    "availability": "In Stock"
+},
+{
+    "id": "G5",
+    "categoryId": "grocery",
+    "name": "Oats",
+    "image": "G5.jpg",
+    "price": 59.99,
+    "rating": 4.8,
+    "description": "Flavourful Oats for healthy breakfast.",
+    "availability": "In Stock"
+},
+{
+    "id": "G6",
+    "categoryId": "grocery",
+    "name": "Salt",
+    "image": "G6.jpg",
+    "price": 29.99,
+    "rating": 4.8,
+    "description": "Nutritional Iodized Salt.",
+    "availability": "In Stock"
+},
+{
+    "id": "H1",
+    "categoryId": "homeDecor",
+    "name": "Cushion Set",
+    "image": "H1.jpg",
+    "price": 199.99,
+    "rating": 4.5,
+    "description": "Beautiful Cushion Set for living room.",
+    "availability": "In Stock"
+},
+{
+    "id": "H2",
+    "categoryId": "homeDecor",
+    "name": "Table Lamp",
+    "image": "H2.jpg",
+    "price": 109.99,
+    "rating": 4.1,
+    "description": "Table Lamp for bedroom, study and living room.",
+    "availability": "In Stock"
+},
+{
+    "id": "H3",
+    "categoryId": "homeDecor",
+    "name": "Blue Vase Set",
+    "image": "H3.jpg",
+    "price": 189.99,
+    "rating": 4.8,
+    "description": "Blue Designer Vase Set.",
+    "availability": "In Stock"
+},
+{
+    "id": "H4",
+    "categoryId": "homeDecor",
+    "name": "Bedsheet",
+    "image": "H4.jpg",
+    "price": 119.99,
+    "rating": 4.3,
+    "description": "Stylish printed Bedsheet. Material - Cotton.",
+    "availability": "In Stock"
+},
+{
+    "id": "K1",
+    "categoryId": "kitchen",
+    "name": "Cutlery Set",
+    "image": "K1.jpg",
+    "price": 59.99,
+    "rating": 4.5,
+    "description": "Table Cutlery Set of 4.",
+    "availability": "In Stock"
+},
+{
+    "id": "K2",
+    "categoryId": "kitchen",
+    "name": "Measuring Cups",
+    "image": "K2.jpg",
+    "price": 89.99,
+    "rating": 4.2,
+    "description": "Stainless-Steel Measuring Cups.",
+    "availability": "In Stock"
+},
+{
+    "id": "K3",
+    "categoryId": "kitchen",
+    "name": "Sauce Pan & Pots",
+    "image": "K3.jpg",
+    "price": 299.99,
+    "rating": 4.8,
+    "description": "Made from Stainless-Steel, Highly durable and non-stick.",
+    "availability": "In Stock"
+},
+{
+    "id": "K4",
+    "categoryId": "kitchen",
+    "name": "Frying Pan",
+    "image": "K4.jpg",
+    "price": 139.99,
+    "rating": 4.0,
+    "description": "Frying Pan Set of 3.",
+    "availability": "In Stock"
+},
+{
+    "id": "K5",
+    "categoryId": "kitchen",
+    "name": "Cutting Board",
+    "image": "K5.jpg",
+    "price": 49.99,
+    "rating": 4.7,
+    "description": "Cutting board set of 3. Material - Wood.",
+    "availability": "In Stock"
+},
+{
+    "id": "K6",
+    "categoryId": "kitchen",
+    "name": "Spice Jars",
+    "image": "K6.jpg",
+    "price": 89.99,
+    "rating": 4.2,
+    "description": "Spice Jars Glass Set of 4.",
+    "availability": "In Stock"
+},
+{
+    "id": "SP1",
+    "categoryId": "sports",
+    "name": "Badminton Racket",
+    "image": "SP1.jpg",
+    "price": 59.99,
+    "rating": 4.5,
+    "description": "Badminton Racket",
+    "availability": "In Stock"
+},
+{
+    "id": "SP2",
+    "categoryId": "sports",
+    "name": "Basketball",
+    "image": "SP2.jpg",
+    "price": 159,
+    "rating": 4.7,
+    "description": "Basketball",
+    "availability": "In Stock"
+},
+{
+    "id": "SP3",
+    "categoryId": "sports",
+    "name": "Cycle Helmet",
+    "image": "SP3.png",
+    "price": 109,
+    "rating": 4.3,
+    "description": "Cycle Helmet",
+    "availability": "In Stock"
+},
+{
+    "id": "SP4",
+    "categoryId": "sports",
+    "name": "Cricket Gloves",
+    "image": "SP4.jpg",
+    "price": 159,
+    "rating": 4.5,
+    "description": "cricket Gloves",
+    "availability": "In Stock"
+},
+{
+    "id": "SP5",
+    "categoryId": "sports",
+    "name": "Cricket Bat",
+    "image": "SP5.png",
+    "price": 189.99,
+    "rating": 4.7,
+    "description": "Cricket Bat",
+    "availability": "In Stock"
+},
+{
+    "id": "SP6",
+    "categoryId": "sports",
+    "name": "Soccer Ball",
+    "image": "SP6.jpg",
+    "price": 80.99,
+    "rating": 4.9,
+    "description": "Soccer Ball",
+    "availability": "In Stock"
+},
+{
+    "id": "S1",
+    "categoryId": "stationery",
+    "name": "Notebook",
+    "image": "S1.jpg",
+    "price": 29.99,
+    "rating": 4.5,
+    "description": "Beautiful Notebook for journaling & note-making.",
+    "availability": "In Stock"
+},
+{
+    "id": "S2",
+    "categoryId": "stationery",
+    "name": "Sticky Notes",
+    "image": "S2.jpg",
+    "price": 9.99,
+    "rating": 3.8,
+    "description": "Colourful Wide Sticky Notes.",
+    "availability": "In Stock"
+},
+{
+    "id": "S3",
+    "categoryId": "stationery",
+    "name": "Highlighters",
+    "image": "S3.jpg",
+    "price": 39.99,
+    "rating": 4.1,
+    "description": "Colourful Highlighters in multiple shades",
+    "availability": "In Stock"
+},
+{
+    "id": "S4",
+    "categoryId": "stationery",
+    "name": "Stapler",
+    "image": "S4.jpg",
+    "price": 20,
+    "rating": 4.3,
+    "description": "Classic Stapler. Color - Purple.",
+    "availability": "In Stock"
+},
+{
+    "id": "T1",
+    "categoryId": "toys",
+    "name": "Monkey Plushie",
+    "image": "T1.jpg",
+    "price": 55,
+    "rating": 4.5,
+    "description": "Soft & Cute Monkey Plushie.",
+    "availability": "In Stock"
+},
+{
+    "id": "T2",
+    "categoryId": "toys",
+    "name": "Puzzle Set",
+    "image": "T2.jpg",
+    "price": 70,
+    "rating": 4.2,
+    "description": "Puzzle Set for 5 years old kids.",
+    "availability": "In Stock"
+},
+{
+    "id": "T3",
+    "categoryId": "toys",
+    "name": "Shapes Playset",
+    "image": "T3.jpg",
+    "price": 65,
+    "rating": 4.5,
+    "description": "Shapes Playset for 3 years old kids.",
+    "availability": "In Stock"
+},
+{
+    "id": "T4",
+    "categoryId": "toys",
+    "name": "Animal Figures",
+    "image": "T4.jpg",
+    "price": 20,
+    "rating": 4.8,
+    "description": "Animal Figures Set for 5 years old kids.",
+    "availability": "In Stock"
+}
+]}
