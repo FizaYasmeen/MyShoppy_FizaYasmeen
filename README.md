@@ -33,7 +33,7 @@ MyShoppy is a React Native mobile shopping application that provides a simple an
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 - React Native
@@ -49,7 +49,7 @@ MyShoppy is a React Native mobile shopping application that provides a simple an
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 ShopEase
@@ -80,7 +80,7 @@ ShopEase
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -134,10 +134,8 @@ Run the application using:
 
 ---
 
-
-
 ## Developed By
 
 **Fiza Yasmeen**
 
-Capstone Project – Mobile Application Development
+Mobile Application Development Project
