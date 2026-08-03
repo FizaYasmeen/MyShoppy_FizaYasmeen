@@ -140,7 +140,7 @@ Run the application using:
 - Order Confirmation Screen
 
 ---
-> **Note:** If running the app on a physical device using Expo Go, update the `API_BASE_URL` in the project to your computer's local IP address so the device can connect to the JSON Server.
+> **Note:** If running the app on a physical device using Expo Go App, update the `API_BASE_URL` in the project to your computer's local IP address so the device can connect to the JSON Server.
 
 ## Developed By
 
