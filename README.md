@@ -54,7 +54,7 @@ MyShoppy is a React Native mobile shopping application that provides a simple an
 ### Home & Category Screens
 
 | Home Screen | Home Screen Carousel |
-|--------------|-----------------|
+|--------------|--------------|
 | ![](screenshots/HomeScreen.png) | ![](screenshots/Home_Screen_Carousel.png) |
 
 ---
@@ -67,9 +67,9 @@ MyShoppy is a React Native mobile shopping application that provides a simple an
 
 ---
 
-### Product Browsing & Sorting
+### Product Sorting & Details
 
-| Product Listing | Product Details |
+| Product Sorting | Product Details |
 |-----------------|-----------------|
 | ![](screenshots/Filtered_Products_Screen.png) | ![](screenshots/Product_Details_Screen_1.png) |
 
