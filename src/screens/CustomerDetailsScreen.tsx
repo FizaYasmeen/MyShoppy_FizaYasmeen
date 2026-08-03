@@ -6,7 +6,6 @@ import Fonts from "../constants/fonts";
 import Spacing from "../constants/spacing";
 import Header from "../components/Header/Header";
 
-
 const CustomerDetailsScreen = ({ navigation, route, setCartItems }: any) => {
     const [name, setName] = useState("");
     const [phone, setPhone] = useState("");
