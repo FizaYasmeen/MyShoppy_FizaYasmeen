@@ -1,4 +1,4 @@
-# MyShoppy - Household Shopping Mobile Application
+# MyShoppy - E-Commerce Mobile Application
 
 MyShoppy is a React Native mobile shopping application that provides a simple and user-friendly shopping experience. Users can browse products by category, search and sort products, view detailed product information, manage their shopping cart, and place orders through a basic checkout process.
 
@@ -174,7 +174,7 @@ Start the JSON Server
 npx json-server --watch db.json --port 3000
 ```
 
-Update the API Base URL with your local IP address if running on a physical device.
+> **Note:** If running the app on a physical device using Expo Go App, update the `API_BASE_URL` in the project to your computer's local IP address so the device can connect to the JSON Server.
 
 Start the Expo development server
 
@@ -198,7 +198,6 @@ Run the application using:
 - Order Confirmation Screen
 
 ---
-> **Note:** If running the app on a physical device using Expo Go App, update the `API_BASE_URL` in the project to your computer's local IP address so the device can connect to the JSON Server.
 
 ## Developed By
 
