@@ -93,7 +93,7 @@ MyShoppy is a React Native mobile shopping application that provides a simple an
 
 ### Shopping Cart & Details Validation
 
-| Remove Product | Validation |
+| Remove Product | Customer Details Validation |
 |-------------|----------|
 | ![](screenshots/Product_Deletion_from_Cart.png) | ![](screenshots/Customer_Details_Validation.png) |
 
@@ -101,7 +101,7 @@ MyShoppy is a React Native mobile shopping application that provides a simple an
 
 ### Details Entry & Order Confirmation
 
-| Validation | Order Confirmation |
+| Customer Details | Order Confirmation |
 |------------|--------------------|
 | ![](screenshots/Customer_Details_Screen.png) | ![](screenshots/Order_Confirmation_Screen.png) |
 
