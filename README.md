@@ -54,28 +54,35 @@ MyShoppy is a React Native mobile shopping application that provides a simple an
 ```
 MyShoppy_FizaYasmeen
 │
-├── assets/
+├── assets/                  # Images, icons and other static assets
 │
-├── components/
-│   ├── Cards/
-│   ├── Common/
-│   └── Header/
+├── screenshots/             # Application screenshots for documentation
 │
-├── constants/
+├── src/
+│   │
+│   ├── components/
+│   │   ├── Cards/           # Product, Category and Cart card components
+│   │   ├── Header/          # Header and Search Bar components
+│   │   └── Home/            # Home screen UI components
+│   │
+│   ├── config/              # API configuration and application settings
+│   │
+│   ├── constants/           # Colors, fonts, spacing and global styles
+│   │
+│   ├── navigation/          # Stack and Bottom Tab navigation
+│   │
+│   ├── screens/             # Application screens
+│   │
+│   └── utils/               # Utility functions and image mapping
 │
-├── navigation/
-│
-├── screens/
-│
-├── services/
-│
-├── data/
-│
-├── db.json
-│
-├── App.tsx
-│
-└── package.json
+├── App.tsx                  # Root component
+├── app.json                 # Expo configuration
+├── data.json                # JSON Server mock database
+├── index.ts                 # Application entry point
+├── package.json             # Project dependencies
+├── package-lock.json        # Dependency lock file
+├── tsconfig.json            # TypeScript configuration
+├── README.md                # Project documentation
 ```
 
 ---
