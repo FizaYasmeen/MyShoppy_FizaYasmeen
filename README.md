@@ -59,19 +59,19 @@ MyShoppy is a React Native mobile shopping application that provides a simple an
 
 ---
 
-### Product Browsing
+### Categories & Products
 
-| Product Listing | Product Details |
-|-----------------|-----------------|
-| ![](screenshots/ProductsScreen.png) | ![](screenshots/Product_Details_Screen_1.png) |
+| Categories Screen | Products Screen |
+|-----------|-----------|
+| ![](screenshots/CategoriesScreen.png) | ![](screenshots/ProductsScreen.png) |
 
 ---
 
-### Categories & Products
+### Product Browsing & Sorting
 
-| Search Categories | Search Products |
-|---------|------|
-| ![](screenshots/CategoriesScreen.png) | ![](screenshots/ProductsScreen.png) |
+| Product Listing | Product Details |
+|-----------------|-----------------|
+| ![](screenshots/Filtered_Products_Screen.png) | ![](screenshots/Product_Details_Screen_1.png) |
 
 ---
 
@@ -91,19 +91,19 @@ MyShoppy is a React Native mobile shopping application that provides a simple an
 
 ---
 
-### Shopping Cart
+### Shopping Cart & Details Validation
 
-| Cart Screen | Remove Product |
+| Remove Product | Validation |
 |-------------|----------|
-| ![](screenshots/CartScreen.png) | ![](screenshots/Product_Deletion_from_Cart.png) |
+| ![](screenshots/Product_Deletion_from_Cart.png) | ![](screenshots/Customer_Details_Validation.png) |
 
 ---
 
-### Validation & Details Entry
+### Details Entry & Order Confirmation
 
 | Validation | Order Confirmation |
 |------------|--------------------|
-| ![](screenshots/Customer_Details_Validation.png) | ![](screenshots/Customer_Details_Screen.png) |
+| ![](screenshots/Customer_Details_Screen.png) | ![](screenshots/Order_Confirmation_Screen.png) |
 
 --- 
 
