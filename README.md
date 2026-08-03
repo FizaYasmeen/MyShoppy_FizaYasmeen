@@ -1,4 +1,4 @@
-# MyShoppy - E-Commerce Mobile Application
+# MyShoppy : E-Commerce Mobile Application
 
 MyShoppy is a React Native mobile shopping application that provides a simple and user-friendly shopping experience. Users can browse products by category, search and sort products, view detailed product information, manage their shopping cart, and place orders through a basic checkout process.
 
@@ -202,5 +202,4 @@ Run the application using:
 ## Developed By
 
 **Fiza Yasmeen**
-
-Mobile Application Development Project
+Mail - er.fizayasmeen@gmail.com
