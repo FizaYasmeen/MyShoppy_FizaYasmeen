@@ -51,7 +51,7 @@ MyShoppy is a React Native mobile shopping application that provides a simple an
 
 ## Application Screenshots
 
-### Home & Category Screens
+### Home Screen
 
 | Home Screen | Home Screen Carousel |
 |--------------|--------------|
