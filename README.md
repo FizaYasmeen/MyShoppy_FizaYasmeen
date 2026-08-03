@@ -52,7 +52,7 @@ MyShoppy is a React Native mobile shopping application that provides a simple an
 ## Project Structure
 
 ```
-ShopEase
+MyShoppy_FizaYasmeen
 │
 ├── assets/
 │
