@@ -202,5 +202,5 @@ Run the application using:
 ## Developed By
 
 **Fiza Yasmeen**
-- Mail - er.fizayasmeen@gmail.com
+**Mail - er.fizayasmeen@gmail.com**
   
